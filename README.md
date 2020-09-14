@@ -1,2 +1,2 @@
 # lagou-spider
-跟上面的boss直聘一个屌样...代码很烂但是能work[狗头]
+这个才是真正的lagou!!
